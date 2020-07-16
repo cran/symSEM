@@ -1,0 +1,14 @@
+f21a8780e1ced2aad67d998de7fa2af9 *DESCRIPTION
+2f71871c1b3342e7c344301fb0cf98f5 *NAMESPACE
+848aebe7d84fef37a15043e8c125f788 *R/deltamethod.R
+ef62b6be35a8170a5d98bd6e8d098273 *R/helper.R
+8c3b95649c297a7206c0524a0f057354 *R/impliedS.R
+ba24b5119632e4663637769626bc8e25 *README.md
+2521310eaf829f83f45aa20a1b03f849 *build/partial.rdb
+c7e539d8e58d63f7fa274eea5ae2f531 *man/as.Matrix.Rd
+9f76969bda5285f378364d16dc91767b *man/deltamethod.Rd
+735bde59336ac85475871785f8754389 *man/impliedS.Rd
+46e744708b7b91af87f105de0a14ffc2 *man/sym.Rd
+ba6a079311c9ae2c54f83bf0c15645e5 *man/symSEM-package.Rd
+e12d96af886a9d71231df58e1bf95a43 *tests/testthat.R
+a3068fbab00f7784097ce52cda11806b *tests/testthat/test_utilities.R
