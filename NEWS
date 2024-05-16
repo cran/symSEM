@@ -1,5 +1,14 @@
+Release 0.4 (May 15, 2024)
+====================================
+* Release to CRAN.
+* Add replace.constraints argument in impliedS().
+* Convert some reserved words, e.g., "lambda" and "I", before applying the functions.
+* Fix two bugs in impliedS.
+* Add JacobianRAM to calculate Jacobian matrix based on an RAM model.
+
 Release 0.2 (May 31, 2023)
 ====================================
+* Release to CRAN.
 * Change the backend from Ryacas to caracas, add oxygen2.
 
 Release 0.1.1 (Sep 26, 2020)

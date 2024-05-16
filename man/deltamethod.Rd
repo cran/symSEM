@@ -10,8 +10,10 @@ deltamethod(fn, Covvars, vars, Var.name = "V", Cov.name = "C", simplify = TRUE)
 \arguments{
 \item{fn}{A function in character strings or a vector of functions.}
 
-\item{Covvars}{Variance-covariance matrix of the variables. If it is not
-specified, they are automatically generated.}
+\item{Covvars}{Variance-covariance matrix of the variables. Users must
+ensure the order of variables is the same as that in \code{vars}; 
+Otherwise, the results are likely incorrect. If it is not specified,
+they are automatically generated.}
 
 \item{vars}{A vector of characters of the random variables. If the random
 variables are not listed in `vars`, they are treated as constants. If `vars`
